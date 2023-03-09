@@ -78,8 +78,8 @@
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="En9yCS's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=En9yCS&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="En9yCS's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=En9yCS&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
+  <p align="center">
+<img width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=En9yCS&show_icons=true&theme=tokyonight" /><br>
+<img width = "40%" src="https://github-readme-stats.vercel.app/api?username=En9yCS&show_icons=true&theme=tokyonight" /><br>
 
 </details>
